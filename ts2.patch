@@ -1,0 +1,14 @@
+Index: index.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- index.php	(revision 2de734490385a1a133bd3010b7c5060be6b673f0)
++++ index.php	(date 1569359488108)
+@@ -1,5 +1,5 @@
+ <?php
+-echo 'test';
++
+ $dsn = "mysql:dbname=test;host=localhost";
+ $user = "root";
+ $pass = "987643210";
